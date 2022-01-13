@@ -4,8 +4,8 @@ A python library that makes animations in python easier. I looking forward to up
 ## ¿What does it do?
 ¡It makes custom animations in the console for you!
 ## ¿How can I install it?
-### Recommended: Install it by doing 'pip install git+https://github.com/aranacraft2/Animations-Python/blob/main/animations.py' in your command prompt
-### Other way: Download the file or copy the code into a file called 'animations.py' and put 'import animations' in the start of your main python code.
+#### Recommended: Install it by doing ' pip install git+https://github.com/aranacraft2/Animations-Python/blob/main/animations.py ' in your command prompt
+#### Other way: Download the file or copy the code into a file called 'animations.py' and put 'import animations' in the start of your main python code.
 ## ¿How does it work?
 Like any other library! You can use 'custom commands' made by me to make cool animations like you saw in the main file.
 
