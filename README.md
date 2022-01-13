@@ -27,4 +27,4 @@ Like any other library! You can use 'custom functions' made by me to make cool a
 >>- create_rocket(speed, loops, rocket_top, rocket_middle, rocket_bottom)
 ## Version 1.1.0 (Coming Soon...)
 >### ¡That's it!
->#### New versions soon... Be aware of this docs file and main.py!
+>#### New versions soon... Be aware of the new realeases!
